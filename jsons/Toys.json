@@ -1,0 +1,131 @@
+[
+    {
+        "name": "car_1",
+        "price": 4,
+        "mkt": 2,
+        "info": "red",
+        "category": "Cars",
+        "img": "https://images.unsplash.com/photo-1559940033-a887678af2f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "ball_2",
+        "price": 5,
+        "mkt": 20,
+        "info": "Black and white color",
+        "category": "Bullets",
+        "img" :"https://images.unsplash.com/photo-1575361204480-aadea25e6e68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+    
+    },
+    {
+        "name": "ball_1",
+        "price": 20,
+        "mkt": 40,
+        "info": "Red and white yellow color",
+        "category": "Bullets",
+        "img": "https://images.unsplash.com/photo-1486286701208-1d58e9338013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name": "Car_2",
+        "price": 7,
+        "mkt": 100,
+        "info": "pink",
+        "category": "Cars",
+        "img": "https://images.unsplash.com/photo-1559816933-0b5b4de2bbcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Car_3",
+        "price": 3,
+        "mkt": 70,
+        "info": "purple color",
+        "category": "Cars",
+        "img": "https://images.unsplash.com/photo-1572635196184-84e35138cf62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+        "name": "dice_1",
+        "price": 10,
+        "mkt": 50,
+        "info": "Rubiks Cube",
+        "category": "Rubiks Cube",
+        "img": "https://images.unsplash.com/photo-1577401239170-897942555fb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "dice_2",
+        "price": 8,
+        "mkt": 30,
+        "info": "Rubiks Cube",
+        "category": "Rubiks Cube",
+        "img": "https://images.unsplash.com/photo-1496354265829-17b1c7b7c363?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1154&q=80"
+    },
+    {
+        "name": "Rings",
+        "price": 6,
+        "mkt": 20,
+        "info": "Rings",
+        "category": "Rings",
+        "img": "https://images.unsplash.com/photo-1618842676088-c4d48a6a7c9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name": "Wooden blocks",
+        "price": 2,
+        "mkt": 20,
+        "info": "Wooden blocks",
+        "category": "Wooden blocks",
+        "img": "https://images.unsplash.com/photo-1575364289437-fb1479d52732?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+        "name": "circles",
+        "price": 30,
+        "mkt": 80,
+        "info": "circles",
+        "category": "circles",
+        "img": "https://images.unsplash.com/photo-1611957082126-061f655ef1fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "home",
+        "price": 20,
+        "mkt": 110,
+        "info": "home",
+        "category": "home",
+        "img": "https://images.unsplash.com/photo-1605012464390-45820d1f7bdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name": "animal",
+        "price": 10,
+        "mkt": 60,
+        "info": "animal",
+        "category": "animal",
+        "img": "https://images.unsplash.com/photo-1552337125-8cb858777cdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+    },
+    {
+        "name": "lgo",
+        "price": 30,
+        "mkt": 130,
+        "info": "lgo",
+        "category":"lgo",
+        "img": "https://images.unsplash.com/photo-1585772964418-00d2cf187dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "dice_3",
+        "price": 30,
+        "mkt": 150,
+        "info":"Rubiks Cube",
+        "category":"Rubiks Cube",
+        "img": "https://images.unsplash.com/photo-1539628399213-d6aa89c93074?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "lgo_2",
+        "price": 7,
+        "mkt": 130,
+        "info": "lgo_2",
+        "category":"lgo_2",
+        "img": "https://images.unsplash.com/photo-1626300881606-c2a174a2eefe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name": "lgo_3",
+        "price": 5,
+        "mkt": 20,
+        "info":"lgo_3",
+        "category":"lgo_3",
+        "img": "https://images.unsplash.com/photo-1638437447459-948e27dda90b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80"
+    }
+]
